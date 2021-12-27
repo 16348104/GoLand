@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var a int64 = 5
-	var b int64 = 8
+	var b int64 = 18
 	var c int64
 	c = int64(a) + int64(b)
 	//c = a+ b
